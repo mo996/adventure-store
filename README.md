@@ -1,3 +1,17 @@
+# Nuxt.js Shopping Cart Application
+
+This project is a shopping cart application built using Nuxt.js, Pinia for state management, and Tailwind CSS for styling.
+
+## Features
+
+- **Product Listing**: Browse through a list of products.
+- **Add to Cart**: Add products to your shopping cart.
+- **Update Quantity**: Increase or decrease the quantity of items in the cart.
+- **Delete from Cart**: Remove items from the cart.
+- **Responsive Design**: The UI is fully responsive, working across all devices.
+
+![App Demo](animation.gif)
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
