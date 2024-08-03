@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-retroBeige text-retroBrown;
+}
+
+.wrapper {
+  @apply my-8 max-w-5xl mx-auto sm:max-w-full sm:px-4;
+}
+
+.card {
+  @apply bg-retroOrange shadow-xl rounded-md p-4 sm:p-2;
+}
+
+.btn {
+  @apply bg-retroBrown py-1 px-2 rounded-sm text-lg;
+  @apply hover:bg-retroGreen;
+}
